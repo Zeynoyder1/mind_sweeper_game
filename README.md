@@ -1,1 +1,1 @@
-# mind_sweeper_game
+# mine_sweeper_game
